@@ -135132,7 +135132,7 @@
 			"ddd": 0,
 			"ind": 9,
 			"ty": 5,
-			"nm": "INPUTPlayername",
+			"nm": "{{INPUTPlayername}}",
 			"parent": 10,
 			"sr": 1,
 			"ks": {
@@ -136656,7 +136656,7 @@
 			"ddd": 0,
 			"ind": 19,
 			"ty": 5,
-			"nm": "INPUTAndy",
+			"nm": "{{INPUTAndy}}",
 			"parent": 20,
 			"sr": 1,
 			"ks": {
